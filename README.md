@@ -79,7 +79,7 @@ required for any commercial application.
 license for use of our AI IPCores (With runtime limited to 1 hour from
 device power-on) free of cost for academic or non-commercial users who
 work on our Priyatoonz-MoCap open source project. Please visit our
-github account for more details on Priyatoonz-MoCap. Contact at**
+github account for more details on Priyatoonz-Sportz. Contact at**
 [[[**charu\@priyatooz.com**](mailto:charu@priyatooz.com)]{.underline}]{lang="zxx"}
 **for commercial and the non-commercial licenses and AI IPCores
 downloads and visit**
