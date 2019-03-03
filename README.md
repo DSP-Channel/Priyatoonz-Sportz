@@ -26,6 +26,7 @@ LoRa™**]{style="font-style: normal"}]{style="letter-spacing: normal"}]{style="
 ![](Priyatoonz-Sportz_html_f92f218fc969e77.jpg){width="500"
 height="331"}\
 
+
 For more details, please visit:
 
 
@@ -72,7 +73,6 @@ For more details, please visit:
 [[6. Sports RADARS and other biomedical
 sensors]{.underline}]{lang="zxx"}
 
-
 For more details:
 
 [[http://www.sportssensors.com/]{.underline}]{lang="zxx"}
@@ -90,21 +90,23 @@ however new design of customized hardware may be required for most of
 commercial applications.
 
 
-[]{#__DdeLink__50_2679174470} **We provide time-limited non-commercial
-license for use of our AI IPCores (With runtime limited to 1 hour from
-device power-on) free of cost for academic or non-commercial users who
-work on our Priyatoonz-Sportz** **repository based** **open source
-projects. Please visit our github account
-(**[[[**https://github.com/DSP-Channel**](https://github.com/DSP-Channel)]{.underline}]{lang="zxx"}**)
-for more details on Priyatoonz-Sportz. Contact at**
+[]{#__DdeLink__73_1980708141}[]{#__DdeLink__50_26791744701} **We provide
+time-limited non-commercial license for use of our Anasim Processor AI
+IPCores (With runtime limited to 1 hour from device power-on) free of
+cost for academic or non-commercial users who work on our Priyatoonz
+repositories based open source projects. Please visit our github account
+(**[[[**https://github.com/DSP-Channe**](https://github.com/DSP-Channel)]{.underline}]{lang="zxx"}[[[**l**](https://github.com/DSP-Channel)]{.underline}]{lang="zxx"}**)
+for more details on Priyatoonz Open Source Projects. Contact at**
 [[[**charu\@priyatooz.com**](mailto:charu@priyatooz.com)]{.underline}]{lang="zxx"}
 **for commercial and the non-commercial licenses and AI IPCores
 downloads and visit**
 [[[**www.priyatoonz.com**](http://www.priyatoonz.com/)]{.underline}]{lang="zxx"}
 **for more details. You may contact at**
 [[[**cto\@anasim.in**](mailto:cto@anasim.in)]{.underline}]{lang="zxx"}
-**for new AI Delpoyment IPCores and Software Library related development
-work.**
+**for new Anasim Processor AI IPCores and Software Library related
+development work.**
+
+[]{#__DdeLink__50_2679174470}
 
 The device drivers for our AI IPCores, source codes will be made
 available for petalinux alongwith relevant instructions to install and
